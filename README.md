@@ -16,7 +16,7 @@ git clone https://github.com/achhetr/notes-app.git ./
 npm install
 ```
 
-To run notes crud operation
+To run notes crud operation in command line
 
 To ADD new notes, all notes title should be unique
 
